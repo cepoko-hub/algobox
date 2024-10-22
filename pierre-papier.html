@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pierre Papier Ciseaux</title>
+  <link rel="stylesheet" href="asset/css/pierre-papier.css">
+</head>
+<body>
+  <header>
+    <div class="menu-burger" id="menuBurger" onclick="toggleMenu()">
+      &#9776;
+    </div>
+    <nav id="navMenu">
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="jeux-de-la-devinette.html">Jeu de devinette</a></li>
+        <li><a href="pierre-papier.html">Pierre Papier Ciseaux</a></li>
+        <li><a href="#">Page 3</a></li>
+        <li><a href="#">Page 4</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <div class="game-container">
+      <h2>Pierre, Papier, Ciseaux</h2>
+      <p id="message">Appuyez sur le bouton pour commencer à jouer !</p>
+      <button id="startButton" onclick="startGame()">Commencer</button>
+      
+      <div id="choices" style="display: none;">
+        <button onclick="playGame('✊')">✊ Pierre</button>
+        <button onclick="playGame('✋')">✋ Papier</button>
+        <button onclick="playGame('✌')">✌ Ciseaux</button>
+      </div>
+
+      <p id="result" style="display: none;"></p>
+    </div>
+  </main>
+
+  <script src="asset/java/pierre-papier.js"></script>
+</body>
+</html>
