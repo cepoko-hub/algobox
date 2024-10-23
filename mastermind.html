@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mastermind</title>
+  <link rel="stylesheet" href="asset/css/mastermind.css">
+</head>
+<body>
+  <header>
+    <div class="menu-burger" id="menuBurger" onclick="toggleMenu()">
+      &#9776;
+    </div>
+    <nav id="navMenu">
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="jeux-de-la-devinette.html">jeux de la devinette</a></li>
+        <li><a href="pierre-papier.html">pierre papier ciseaux</a></li>
+        <li><a href="jeux-du-batonet.html">jeux des battoné</a></li>
+        <li><a href="mastermind.html">mastermind</a></li>
+        <li><a href="pokemon.html">capture pokemon</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <div class="game-container">
+      <h2>Mastermind - Devinez la combinaison de couleurs</h2>
+      <p id="message">Appuyez sur le bouton pour commencer !</p>
+      <button id="startButton" onclick="startGame()">Commencer</button>
+
+      <div id="gameArea" style="display: none;">
+        <div id="colorChoices">
+          <p>Choisissez 4 couleurs :</p>
+          <button onclick="chooseColor('🔴')">🔴</button>
+          <button onclick="chooseColor('🟠')">🟠</button>
+          <button onclick="chooseColor('🟡')">🟡</button>
+          <button onclick="chooseColor('🟢')">🟢</button>
+          <button onclick="chooseColor('🔵')">🔵</button>
+          <button onclick="chooseColor('🟣')">🟣</button>
+        </div>
+
+        <div id="playerGuess">
+          <p>Votre choix actuel : <span id="currentGuess"> </span></p>
+        </div>
+
+        <button id="guessButton" onclick="makeGuess()" style="display: none;">Valider la combinaison</button>
+
+        <p id="result" style="display: none;"></p>
+        <div id="attempts"></div>
+      </div>
+    </div>
+  </main>
+
+  <script src="asset/java/mastermind.js"></script>
+</body>
+</html>

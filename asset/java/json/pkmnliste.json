@@ -1,0 +1,758 @@
+[
+    {
+      "name": "bubisar",
+      "image": "asset/java/json/pkmn/ani_bw_001.gif",
+      "hp": 45
+    },
+    {
+      "name": "herbisar",
+      "image": "asset/java/json/pkmn/ani_bw_002.gif",
+      "hp": 65
+    },
+    {
+      "name": "florisar",
+      "image": "asset/java/json/pkmn/ani_bw_003.gif",
+      "hp": 120
+    },
+    {
+        "name": "salameche",
+        "image": "asset/java/json/pkmn/ani_bw_004.gif",
+        "hp": 40
+      },
+      {
+        "name": "reptincel",
+        "image": "asset/java/json/pkmn/ani_bw_005.gif",
+        "hp": 60
+      },
+      {
+        "name": "dracofeu",
+        "image": "asset/java/json/pkmn/ani_bw_006.gif",
+        "hp": 120
+      },
+      {
+        "name": "carapuce",
+        "image": "asset/java/json/pkmn/ani_bw_007.gif",
+        "hp": 50
+      },
+      {
+        "name": "carabaf",
+        "image": "asset/java/json/pkmn/ani_bw_008.gif",
+        "hp": 70
+      },
+      {
+        "name": "tortank",
+        "image": "asset/java/json/pkmn/ani_bw_009.gif",
+        "hp": 120
+      },
+      {
+        "name": "chenipan",
+        "image": "asset/java/json/pkmn/ani_bw_010.gif",
+        "hp": 40
+      },
+      {
+        "name": "chrysacier",
+        "image": "asset/java/json/pkmn/ani_bw_011.gif",
+        "hp": 50
+      },
+      {
+        "name": "papilusion",
+        "image": "asset/java/json/pkmn/ani_bw_012.gif",
+        "hp": 70
+      },
+      {
+        "name": "aspicot",
+        "image": "asset/java/json/pkmn/ani_bw_013.gif",
+        "hp": 40
+      },
+      {
+        "name": "coconfort",
+        "image": "asset/java/json/pkmn/ani_bw_014.gif",
+        "hp": 50
+      },
+      {
+        "name": "dardargnan",
+        "image": "asset/java/json/pkmn/ani_bw_015.gif",
+        "hp": 75
+      },
+      {
+        "name": "roucool",
+        "image": "asset/java/json/pkmn/ani_bw_016.gif",
+        "hp": 40
+      },
+      {
+        "name": "roucoups",
+        "image": "asset/java/json/pkmn/ani_bw_017.gif",
+        "hp": 60
+      },
+      {
+        "name": "roucarnage",
+        "image": "asset/java/json/pkmn/ani_bw_018.gif",
+        "hp": 105
+      },
+      {
+        "name": "rattata",
+        "image": "asset/java/json/pkmn/ani_bw_019.gif",
+        "hp": 35
+      },
+      {
+        "name": "rattatac",
+        "image": "asset/java/json/pkmn/ani_bw_020.gif",
+        "hp": 55
+      },
+      {
+        "name": "piafabec",
+        "image": "asset/java/json/pkmn/ani_bw_021.gif",
+        "hp": 40
+      },
+      {
+        "name": "rapasdepic",
+        "image": "asset/java/json/pkmn/ani_bw_022.gif",
+        "hp": 65
+      },
+      {
+        "name": "abo",
+        "image": "asset/java/json/pkmn/ani_bw_023.gif",
+        "hp": 50
+      },
+      {
+        "name": "arbok",
+        "image": "asset/java/json/pkmn/ani_bw_024.gif",
+        "hp": 70
+      },
+      {
+        "name": "pikachu",
+        "image": "asset/java/json/pkmn/ani_bw_025.gif",
+        "hp": 45
+      },
+      {
+        "name": "raichu",
+        "image": "asset/java/json/pkmn/ani_bw_026.gif",
+        "hp": 75
+      },
+      {
+        "name": "sabelette",
+        "image": "asset/java/json/pkmn/ani_bw_027.gif",
+        "hp": 50
+      },
+      {
+        "name": "sablaireau",
+        "image": "asset/java/json/pkmn/ani_bw_028.gif",
+        "hp": 75
+      },
+      {
+        "name": "nidoran♀",
+        "image": "asset/java/json/pkmn/ani_bw_029.gif",
+        "hp": 55
+      },
+      {
+        "name": "nidorina",
+        "image": "asset/java/json/pkmn/ani_bw_030.gif",
+        "hp": 70
+      },
+      {
+        "name": "nidoqueen",
+        "image": "asset/java/json/pkmn/ani_bw_031.gif",
+        "hp": 90
+      },
+      {
+        "name": "nidoran♂",
+        "image": "asset/java/json/pkmn/ani_bw_032.gif",
+        "hp": 55
+      },
+      {
+        "name": "nidorino",
+        "image": "asset/java/json/pkmn/ani_bw_033.gif",
+        "hp": 70
+      },
+      {
+        "name": "nidoking",
+        "image": "asset/java/json/pkmn/ani_bw_034.gif",
+        "hp": 100
+      },
+      {
+        "name": "melofee",
+        "image": "asset/java/json/pkmn/ani_bw_035.gif",
+        "hp": 45
+      },
+      {
+        "name": "melodelfe",
+        "image": "asset/java/json/pkmn/ani_bw_036.gif",
+        "hp": 80
+      },
+      {
+        "name": "goupix",
+        "image": "asset/java/json/pkmn/ani_bw_037.gif",
+        "hp": 38
+      },
+      {
+        "name": "feunard",
+        "image": "asset/java/json/pkmn/ani_bw_038.gif",
+        "hp": 73
+      },
+      {
+        "name": "rondoudou",
+        "image": "asset/java/json/pkmn/ani_bw_039.gif",
+        "hp": 55
+      },
+      {
+        "name": "grodoudou",
+        "image": "asset/java/json/pkmn/ani_bw_040.gif",
+        "hp": 85
+      },
+      {
+        "name": "nosferapti",
+        "image": "asset/java/json/pkmn/ani_bw_041.gif",
+        "hp": 40
+      },
+      {
+        "name": "nosferalto",
+        "image": "asset/java/json/pkmn/ani_bw_042.gif",
+        "hp": 75
+      },
+      {
+        "name": "mystherbe",
+        "image": "asset/java/json/pkmn/ani_bw_043.gif",
+        "hp": 45
+      },
+      {
+        "name": "ortide",
+        "image": "asset/java/json/pkmn/ani_bw_044.gif",
+        "hp": 60
+      },
+      {
+        "name": "rafflesia",
+        "image": "asset/java/json/pkmn/ani_bw_045.gif",
+        "hp": 85
+      },
+      {
+        "name": "paras",
+        "image": "asset/java/json/pkmn/ani_bw_046.gif",
+        "hp": 40
+      },
+      {
+        "name": "parasect",
+        "image": "asset/java/json/pkmn/ani_bw_047.gif",
+        "hp": 70
+      },
+      {
+        "name": "mimitoss",
+        "image": "asset/java/json/pkmn/ani_bw_048.gif",
+        "hp": 60
+      },
+      {
+        "name": "aeromite",
+        "image": "asset/java/json/pkmn/ani_bw_049.gif",
+        "hp": 70
+      },
+      {
+        "name": "taupiqueur",
+        "image": "asset/java/json/pkmn/ani_bw_050.gif",
+        "hp": 40
+      },
+      {
+        "name": "triopikeur",
+        "image": "asset/java/json/pkmn/ani_bw_051.gif",
+        "hp": 65
+      },
+      {
+        "name": "miaouss",
+        "image": "asset/java/json/pkmn/ani_bw_052.gif",
+        "hp": 40
+      },
+      {
+        "name": "persian",
+        "image": "asset/java/json/pkmn/ani_bw_053.gif",
+        "hp": 65
+      },
+      {
+        "name": "psykokwak",
+        "image": "asset/java/json/pkmn/ani_bw_054.gif",
+        "hp": 50
+      },
+      {
+        "name": "akwakwak",
+        "image": "asset/java/json/pkmn/ani_bw_055.gif",
+        "hp": 80
+      },
+      {
+        "name": "ferosinge",
+        "image": "asset/java/json/pkmn/ani_bw_056.gif",
+        "hp": 40
+      },
+      {
+        "name": "colossinge",
+        "image": "asset/java/json/pkmn/ani_bw_057.gif",
+        "hp": 65
+      },
+      {
+        "name": "caninos",
+        "image": "asset/java/json/pkmn/ani_bw_058.gif",
+        "hp": 55
+      },
+      {
+        "name": "arcanin",
+        "image": "asset/java/json/pkmn/ani_bw_059.gif",
+        "hp": 90
+      },
+      {
+        "name": "ptitard",
+        "image": "asset/java/json/pkmn/ani_bw_060.gif",
+        "hp": 40
+      },
+      {
+        "name": "tetarte",
+        "image": "asset/java/json/pkmn/ani_bw_061.gif",
+        "hp": 65
+      },
+      {
+        "name": "tartard",
+        "image": "asset/java/json/pkmn/ani_bw_062.gif",
+        "hp": 90
+      },
+      {
+        "name": "abra",
+        "image": "asset/java/json/pkmn/ani_bw_063.gif",
+        "hp": 40
+      },
+      {
+        "name": "kadabra",
+        "image": "asset/java/json/pkmn/ani_bw_064.gif",
+        "hp": 55
+      },
+      {
+        "name": "alakazam",
+        "image": "asset/java/json/pkmn/ani_bw_065.gif",
+        "hp": 105
+      },
+      {
+        "name": "machoc",
+        "image": "asset/java/json/pkmn/ani_bw_066.gif",
+        "hp": 50
+      },
+      {
+        "name": "machopeur",
+        "image": "asset/java/json/pkmn/ani_bw_067.gif",
+        "hp": 70
+      },
+      {
+        "name": "mackogneur",
+        "image": "asset/java/json/pkmn/ani_bw_068.gif",
+        "hp": 105
+      },
+      {
+        "name": "chetiflor",
+        "image": "asset/java/json/pkmn/ani_bw_069.gif",
+        "hp": 50
+      },
+      {
+        "name": "boustiflor",
+        "image": "asset/java/json/pkmn/ani_bw_070.gif",
+        "hp": 65
+      },
+      {
+        "name": "empiflor",
+        "image": "asset/java/json/pkmn/ani_bw_071.gif",
+        "hp": 95
+      },
+      {
+        "name": "tentacool",
+        "image": "asset/java/json/pkmn/ani_bw_072.gif",
+        "hp": 40
+      },
+      {
+        "name": "tentacruel",
+        "image": "asset/java/json/pkmn/ani_bw_073.gif",
+        "hp": 80
+      },
+      {
+        "name": "racaillou",
+        "image": "asset/java/json/pkmn/ani_bw_074.gif",
+        "hp": 40
+      },
+      {
+        "name": "gravalanch",
+        "image": "asset/java/json/pkmn/ani_bw_075.gif",
+        "hp": 65
+      },
+      {
+        "name": "grolem",
+        "image": "asset/java/json/pkmn/ani_bw_076.gif",
+        "hp": 105
+      },
+      {
+        "name": "ponyta",
+        "image": "asset/java/json/pkmn/ani_bw_077.gif",
+        "hp": 50
+      },
+      {
+        "name": "galopa",
+        "image": "asset/java/json/pkmn/ani_bw_078.gif",
+        "hp": 80
+      },
+      {
+        "name": "ramoloss",
+        "image": "asset/java/json/pkmn/ani_bw_079.gif",
+        "hp": 55
+      },
+      {
+        "name": "flagadoss",
+        "image": "asset/java/json/pkmn/ani_bw_080.gif",
+        "hp": 95
+      },
+      {
+        "name": "magneti",
+        "image": "asset/java/json/pkmn/ani_bw_081.gif",
+        "hp": 40
+      },
+      {
+        "name": "magneton",
+        "image": "asset/java/json/pkmn/ani_bw_082.gif",
+        "hp": 60
+      },
+      {
+        "name": "canarticho",
+        "image": "asset/java/json/pkmn/ani_bw_083.gif",
+        "hp": 52
+      },
+      {
+        "name": "doduo",
+        "image": "asset/java/json/pkmn/ani_bw_084.gif",
+        "hp": 35
+      },
+      {
+        "name": "dodrio",
+        "image": "asset/java/json/pkmn/ani_bw_085.gif",
+        "hp": 60
+      },
+      {
+        "name": "otaria",
+        "image": "asset/java/json/pkmn/ani_bw_086.gif",
+        "hp": 65
+      },
+      {
+        "name": "lamantine",
+        "image": "asset/java/json/pkmn/ani_bw_087.gif",
+        "hp": 90
+      },
+      {
+        "name": "tadmorv",
+        "image": "asset/java/json/pkmn/ani_bw_088.gif",
+        "hp": 55
+      },
+      {
+        "name": "grotadmorv",
+        "image": "asset/java/json/pkmn/ani_bw_089.gif",
+        "hp": 80
+      },
+      {
+        "name": "kokiyas",
+        "image": "asset/java/json/pkmn/ani_bw_090.gif",
+        "hp": 30
+      },
+      {
+        "name": "crustabri",
+        "image": "asset/java/json/pkmn/ani_bw_091.gif",
+        "hp": 70
+      },
+      {
+        "name": "fantominus",
+        "image": "asset/java/json/pkmn/ani_bw_092.gif",
+        "hp": 30
+      },
+      {
+        "name": "spectrum",
+        "image": "asset/java/json/pkmn/ani_bw_093.gif",
+        "hp": 45
+      },
+      {
+        "name": "ectoplasma",
+        "image": "asset/java/json/pkmn/ani_bw_094.gif",
+        "hp": 95
+      },
+      {
+        "name": "onix",
+        "image": "asset/java/json/pkmn/ani_bw_095.gif",
+        "hp": 60
+      },
+      {
+        "name": "soporifik",
+        "image": "asset/java/json/pkmn/ani_bw_096.gif",
+        "hp": 60
+      },
+      {
+        "name": "hypnomade",
+        "image": "asset/java/json/pkmn/ani_bw_097.gif",
+        "hp": 85
+      },
+      {
+        "name": "krabby",
+        "image": "asset/java/json/pkmn/ani_bw_098.gif",
+        "hp": 30
+      },
+      {
+        "name": "krabboss",
+        "image": "asset/java/json/pkmn/ani_bw_099.gif",
+        "hp": 55
+      },
+      {
+        "name": "voltorbe",
+        "image": "asset/java/json/pkmn/ani_bw_100.gif",
+        "hp": 40
+      },
+      {
+        "name": "electrode",
+        "image": "asset/java/json/pkmn/ani_bw_101.gif",
+        "hp": 60
+      },
+      {
+        "name": "noeunoeuf",
+        "image": "asset/java/json/pkmn/ani_bw_102.gif",
+        "hp": 60
+      },
+      {
+        "name": "noadkoko",
+        "image": "asset/java/json/pkmn/ani_bw_103.gif",
+        "hp": 95
+      },
+      {
+        "name": "osselait",
+        "image": "asset/java/json/pkmn/ani_bw_104.gif",
+        "hp": 50
+      },
+      {
+        "name": "ossatueur",
+        "image": "asset/java/json/pkmn/ani_bw_105.gif",
+        "hp": 70
+      },
+      {
+        "name": "kicklee",
+        "image": "asset/java/json/pkmn/ani_bw_106.gif",
+        "hp": 50
+      },
+      {
+        "name": "tygnon",
+        "image": "asset/java/json/pkmn/ani_bw_107.gif",
+        "hp": 50
+      },
+      {
+        "name": "excelangue",
+        "image": "asset/java/json/pkmn/ani_bw_108.gif",
+        "hp": 90
+      },
+      {
+        "name": "smogo",
+        "image": "asset/java/json/pkmn/ani_bw_109.gif",
+        "hp": 40
+      },
+      {
+        "name": "smogogo",
+        "image": "asset/java/json/pkmn/ani_bw_110.gif",
+        "hp": 65
+      },
+      {
+        "name": "rhinocorne",
+        "image": "asset/java/json/pkmn/ani_bw_111.gif",
+        "hp": 80
+      },
+      {
+        "name": "rhinoferos",
+        "image": "asset/java/json/pkmn/ani_bw_112.gif",
+        "hp": 95
+      },
+      {
+        "name": "leveinard",
+        "image": "asset/java/json/pkmn/ani_bw_113.gif",
+        "hp": 100
+      },
+      {
+        "name": "saquedeneu",
+        "image": "asset/java/json/pkmn/ani_bw_114.gif",
+        "hp": 65
+      },
+      {
+        "name": "kangourex",
+        "image": "asset/java/json/pkmn/ani_bw_115.gif",
+        "hp": 90
+      },
+      {
+        "name": "hypotrempe",
+        "image": "asset/java/json/pkmn/ani_bw_116.gif",
+        "hp": 30
+      },
+      {
+        "name": "hypocean",
+        "image": "asset/java/json/pkmn/ani_bw_117.gif",
+        "hp": 60
+      },
+      {
+        "name": "poissirene",
+        "image": "asset/java/json/pkmn/ani_bw_118.gif",
+        "hp": 45
+      },
+      {
+        "name": "poissoroy",
+        "image": "asset/java/json/pkmn/ani_bw_119.gif",
+        "hp": 80
+      },
+      {
+        "name": "stari",
+        "image": "asset/java/json/pkmn/ani_bw_120.gif",
+        "hp": 30
+      },
+      {
+        "name": "staross",
+        "image": "asset/java/json/pkmn/ani_bw_121.gif",
+        "hp": 60
+      },
+      {
+        "name": "m. mime",
+        "image": "asset/java/json/pkmn/ani_bw_122.gif",
+        "hp": 70
+      },
+      {
+        "name": "insecateur",
+        "image": "asset/java/json/pkmn/ani_bw_123.gif",
+        "hp": 70
+      },
+      {
+        "name": "lippoutou",
+        "image": "asset/java/json/pkmn/ani_bw_124.gif",
+        "hp": 65
+      },
+      {
+        "name": "elektek",
+        "image": "asset/java/json/pkmn/ani_bw_125.gif",
+        "hp": 65
+      },
+      {
+        "name": "magmar",
+        "image": "asset/java/json/pkmn/ani_bw_126.gif",
+        "hp": 65
+      },
+      {
+        "name": "scarabrute",
+        "image": "asset/java/json/pkmn/ani_bw_127.gif",
+        "hp": 65
+      },
+      {
+        "name": "tauros",
+        "image": "asset/java/json/pkmn/ani_bw_128.gif",
+        "hp": 75
+      },
+      {
+        "name": "magicarpe",
+        "image": "asset/java/json/pkmn/ani_bw_129.gif",
+        "hp": 20
+      },
+      {
+        "name": "leviator",
+        "image": "asset/java/json/pkmn/ani_bw_130.gif",
+        "hp": 120
+      },
+      {
+        "name": "lokhlass",
+        "image": "asset/java/json/pkmn/ani_bw_131.gif",
+        "hp": 100
+      },
+      {
+        "name": "metamorph",
+        "image": "asset/java/json/pkmn/ani_bw_132.gif",
+        "hp": 48
+      },
+      {
+        "name": "evoli",
+        "image": "asset/java/json/pkmn/ani_bw_133.gif",
+        "hp": 55
+      },
+      {
+        "name": "aquali",
+        "image": "asset/java/json/pkmn/ani_bw_134.gif",
+        "hp": 80
+      },
+      {
+        "name": "voltali",
+        "image": "asset/java/json/pkmn/ani_bw_135.gif",
+        "hp": 65
+      },
+      {
+        "name": "pyroli",
+        "image": "asset/java/json/pkmn/ani_bw_136.gif",
+        "hp": 65
+      },
+      {
+        "name": "porygon",
+        "image": "asset/java/json/pkmn/ani_bw_137.gif",
+        "hp": 65
+      },
+      {
+        "name": "amonita",
+        "image": "asset/java/json/pkmn/ani_bw_138.gif",
+        "hp": 35
+      },
+      {
+        "name": "amonistar",
+        "image": "asset/java/json/pkmn/ani_bw_139.gif",
+        "hp": 70
+      },
+      {
+        "name": "kabuto",
+        "image": "asset/java/json/pkmn/ani_bw_140.gif",
+        "hp": 30
+      },
+      {
+        "name": "kabutops",
+        "image": "asset/java/json/pkmn/ani_bw_141.gif",
+        "hp": 60
+      },
+      {
+        "name": "ptera",
+        "image": "asset/java/json/pkmn/ani_bw_142.gif",
+        "hp": 80
+      },
+      {
+        "name": "ronflex",
+        "image": "asset/java/json/pkmn/ani_bw_143.gif",
+        "hp": 100
+      },
+      {
+        "name": "artikodin",
+        "image": "asset/java/json/pkmn/ani_bw_144.gif",
+        "hp": 150
+      },
+      {
+        "name": "electhor",
+        "image": "asset/java/json/pkmn/ani_bw_145.gif",
+        "hp": 150
+      },
+      {
+        "name": "sulfura",
+        "image": "asset/java/json/pkmn/ani_bw_146.gif",
+        "hp": 150
+      },
+      {
+        "name": "minidraco",
+        "image": "asset/java/json/pkmn/ani_bw_147.gif",
+        "hp": 41
+      },
+      {
+        "name": "draco",
+        "image": "asset/java/json/pkmn/ani_bw_148.gif",
+        "hp": 61
+      },
+      {
+        "name": "dracolosse",
+        "image": "asset/java/json/pkmn/ani_bw_149.gif",
+        "hp": 120
+      },
+      {
+        "name": "mewtwo",
+        "image": "asset/java/json/pkmn/ani_bw_150.gif",
+        "hp": 200
+      },
+      {
+        "name": "mew",
+        "image": "asset/java/json/pkmn/ani_bw_151.gif",
+        "hp": 180
+      }      
+  ]
+  

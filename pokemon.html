@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rencontre de Créature</title>
+  <link rel="stylesheet" href="asset/css/pokemon.css">
+</head>
+<body>
+  <header>
+    <div class="menu-burger" id="menuBurger" onclick="toggleMenu()">
+      &#9776;
+    </div>
+    <nav id="navMenu">
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="jeux-de-la-devinette.html">jeux de la devinette</a></li>
+        <li><a href="pierre-papier.html">pierre papier ciseaux</a></li>
+        <li><a href="jeux-du-batonet.html">jeux des battoné</a></li>
+        <li><a href="mastermind.html">mastermind</a></li>
+        <li><a href="pokemon.html">capture pokemon</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <div class="game-container">
+      <h2>Rencontre de Créature</h2>
+      <button id="startButton" onclick="startGame()">Commencer la rencontre</button>
+      <div id="gameArea" style="display: none;">
+        <h3>Une créature sauvage apparaît !</h3>
+        <img id="creatureImage" src="" alt="Créature sauvage" width="200">
+
+        <p>PV de la créature : <span id="creatureHP"></span> / <span id="creatureMaxHP"></span></p>
+
+        <div id="actionMenu">
+          <button onclick="normalAttack()">Attaque normale</button>
+          <button onclick="powerfulAttack()">Attaque puissante</button>
+          <button onclick="throwBall()">Lancer la Pokéball</button>
+        </div>
+
+        <p id="message"></p>
+      </div>
+    </div>
+  </main>
+
+  <script src="asset/java/pokemon.js"></script>
+</body>
+</html>
